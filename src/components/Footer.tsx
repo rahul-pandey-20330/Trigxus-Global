@@ -75,7 +75,7 @@ export default function Footer() {
 
       <div className="container-main border-t border-white/10 py-7">
         <div className="flex flex-col justify-between gap-5 text-xs text-slate-500 md:flex-row">
-          <p>© {new Date().getFullYear()} TRIGXUS. All rights reserved.</p>
+          <p>© 2026 TRIGXUS. All rights reserved.</p>
           <div className="flex flex-wrap gap-6">
             <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-white">Terms & Conditions</Link>
