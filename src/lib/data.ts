@@ -33,6 +33,7 @@ export const services = [
     title: "Trading & Financial Technology",
     short: "Custom trading platforms and financial technology designed around your business model.",
     description: "Develop modern trading experiences with market data, charts, portfolio management and supported execution integrations.",
+    icon: "TrendingUp",
     capabilities: [
       "Web-based and multi-asset trading platforms",
       "Forex, gold, indices and cryptocurrency integrations",
@@ -59,6 +60,7 @@ export const services = [
     title: "AI & Automation",
     short: "Intelligent software and automated workflows that improve business operations.",
     description: "Use AI and intelligent automation to streamline processes, organize information and build more capable business applications.",
+    icon: "BrainCircuit",
     capabilities: [
       "Custom AI software and AI-powered business applications",
       "Business process and workflow automation",
@@ -85,6 +87,7 @@ export const services = [
     title: "Custom Software & CRM",
     short: "Purpose-built business applications, CRM systems and enterprise software.",
     description: "Transform operational requirements into custom software that helps manage customers, employees, inventory and business processes.",
+    icon: "Code2",
     capabilities: [
       "Custom and enterprise software development",
       "CRM, ERP and business-management systems",
@@ -111,6 +114,7 @@ export const services = [
     title: "Web & Mobile Applications",
     short: "Modern websites, web applications and mobile experiences built for growth.",
     description: "From corporate websites to complex applications, we design and engineer digital experiences across devices.",
+    icon: "Smartphone",
     capabilities: [
       "Corporate, business and e-commerce websites",
       "Web applications, portals and custom platforms",
@@ -137,6 +141,7 @@ export const services = [
     title: "SaaS & Cloud Solutions",
     short: "Cloud-ready products, SaaS platforms and deployment infrastructure.",
     description: "Build and operate modern cloud-based applications with flexible architecture, deployment and maintenance.",
+    icon: "Cloud",
     capabilities: [
       "SaaS products and multi-tenant platforms",
       "Cloud-based applications and software solutions",
@@ -163,6 +168,7 @@ export const services = [
     title: "EdTech & Digital Learning",
     short: "Digital education platforms and learning-management technology.",
     description: "Create digital learning experiences for educational organizations, trainers and modern learning businesses.",
+    icon: "GraduationCap",
     capabilities: [
       "EdTech platform development",
       "Learning Management Systems (LMS)",
@@ -189,6 +195,7 @@ export const services = [
     title: "Enterprise & Business Solutions",
     short: "Integrated business systems and technology services for growing organizations.",
     description: "Support business transformation through connected systems, process management and ongoing technical assistance.",
+    icon: "Building2",
     capabilities: [
       "Business automation and digital transformation",
       "Custom business platforms and process-management systems",
